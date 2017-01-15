@@ -1,0 +1,20 @@
+Information about Subject
+
+Gender:
+m
+
+Shooting arm:
+r
+
+Height:
+65
+
+Arm Length:
+15
+
+Playing Frequency (days/week):
+2
+
+Highest Level Played:
+im
+

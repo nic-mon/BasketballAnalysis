@@ -1,0 +1,14 @@
+Information about Subject
+
+Gender:
+m
+
+Shooting arm:
+r
+
+Height:
+66
+
+Arm Length:
+8
+

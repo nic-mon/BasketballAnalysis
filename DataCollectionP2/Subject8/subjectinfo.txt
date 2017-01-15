@@ -1,0 +1,11 @@
+Information about Subject
+
+Gender:
+m
+
+Shooting arm:
+r
+
+Height:
+75
+
